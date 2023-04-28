@@ -1,6 +1,7 @@
 0x05. AirBnB clone - RESTful API
 
 General
+
 What REST means
 What API means
 What CORS means
@@ -14,7 +15,9 @@ Which is the HTTP method to delete resource
 How to request REST API.
 
 Requirements
+
 Python Scripts
+
 Allowed editors: vi, vim, emacs
 All your files will be interpreted/compiled on Ubuntu 14.04 LTS using python3 (version 3.4.3)
 All your files should end with a new line
